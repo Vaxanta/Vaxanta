@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaxanta
-- 👀 I’m interested in website developer and NodeJs
+- 👀 I’m interested in website developer and computer
 - 🌱 I’m currently learning website and Nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
